@@ -1,0 +1,15 @@
+{
+  "tests": [
+    {
+      "name": "Run Maven Tests",
+      "setup": "",
+      "run": "mvn clean test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
+
